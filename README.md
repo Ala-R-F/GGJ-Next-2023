@@ -1,4 +1,4 @@
-# GGJ-Next
+# GGJ-Next-2023
 Repository for Assets and versions of a game for GGJ Next of 2023
 
 ## 👩🏻‍💻👩🏾‍💻 Desenvolvedores:
